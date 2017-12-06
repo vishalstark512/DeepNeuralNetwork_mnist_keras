@@ -1,0 +1,2 @@
+pkg-resources==0.0.0
+Theano==1.0.0+33.g704e1b989
